@@ -1,0 +1,4 @@
+C:\Users\woodmich952\Documents\Projects\BoxesCyka\BoxesCyka\bin\Debug\BoxesCyka.exe
+C:\Users\woodmich952\Documents\Projects\BoxesCyka\BoxesCyka\bin\Debug\BoxesCyka.pdb
+C:\Users\woodmich952\Documents\Projects\BoxesCyka\BoxesCyka\obj\x86\Debug\BoxesCyka.exe
+C:\Users\woodmich952\Documents\Projects\BoxesCyka\BoxesCyka\obj\x86\Debug\BoxesCyka.pdb
